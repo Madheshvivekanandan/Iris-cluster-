@@ -44,10 +44,9 @@ pip install numpy pandas scikit-learn matplotlib seaborn
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/kmeans-iris-clustering.git
+    git clone https://github.com/Madheshvivekanandan/Iris-cluster-.git
     cd kmeans-iris-clustering
     ```
-
 2. Run the script:
     ```bash
     python kmeans_clustering.py
